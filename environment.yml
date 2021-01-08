@@ -1,0 +1,5 @@
+name: HLA_compate
+channels:
+  - defaults
+prefix: /home/cedric/miniconda3/envs/HLA_compate
+
